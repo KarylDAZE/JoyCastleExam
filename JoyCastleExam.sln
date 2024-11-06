@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp", "csharp.csproj", "{4DB192EF-0A31-4957-AD76-25DB76641AF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoyCastleExam", "JoyCastleExam.csproj", "{664ED697-5EF8-40F0-BA5F-AEC1FD3FD141}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4DB192EF-0A31-4957-AD76-25DB76641AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4DB192EF-0A31-4957-AD76-25DB76641AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4DB192EF-0A31-4957-AD76-25DB76641AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4DB192EF-0A31-4957-AD76-25DB76641AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664ED697-5EF8-40F0-BA5F-AEC1FD3FD141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664ED697-5EF8-40F0-BA5F-AEC1FD3FD141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664ED697-5EF8-40F0-BA5F-AEC1FD3FD141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664ED697-5EF8-40F0-BA5F-AEC1FD3FD141}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F4D06E35-55C5-4264-8954-31197D9B0621}
+		SolutionGuid = {02E074EA-4D12-4228-BC9E-7A2D22675400}
 	EndGlobalSection
 EndGlobal
